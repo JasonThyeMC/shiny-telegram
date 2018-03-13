@@ -1,0 +1,860 @@
+Text: 
+Free
+Confidence: 75.20523
+
+Text: 
+H1g4gode
+Confidence: 51.215782
+
+Text: 
+méﬁy
+Confidence: 54.049866
+
+Text: 
+vszun‘z
+Confidence: 64.45923
+
+Text: 
+vnur
+Confidence: 77.835686
+
+Text: 
+Qlext
+Confidence: 66.63257
+
+Text: 
+Drink
+Confidence: 85.11613
+
+Text: 
+Cauld
+Confidence: 70.03964
+
+Text: 
+Be
+Confidence: 77.653336
+
+Text: 
+Free
+Confidence: 73.108574
+
+Text: 
+mh
+Confidence: 69.078735
+
+Text: 
+A
+Confidence: 79.17334
+
+Text: 
+Stgrtwks
+Confidence: 62.861504
+
+Text: 
+card
+Confidence: 76.176956
+
+Text: 
+Turn
+Confidence: 71.51141
+
+Text: 
+Your
+Confidence: 77.083015
+
+Text: 
+V\s\t5
+Confidence: 81.670685
+
+Text: 
+Into
+Confidence: 74.10778
+
+Text: 
+Rmrm!
+Confidence: 57.2711
+
+Text: 
+u
+Confidence: 63.984726
+
+Text: 
+wmn
+Confidence: 52.750835
+
+Text: 
+Jm
+Confidence: 80.949615
+
+Text: 
+17
+Confidence: 83.247284
+
+Text: 
+02:46:13»-v~—---~
+Confidence: 48.816833
+
+Text: 
+BSTSunary
+Confidence: 70.54218
+
+Text: 
+54151
+Confidence: 59.46511
+
+Text: 
+[‘51:
+Confidence: 54.293446
+
+Text: 
+z
+Confidence: 89.222786
+
+Text: 
+n”
+Confidence: 62.100075
+
+Text: 
+m:
+Confidence: 69.76638
+
+Text: 
+Roux»
+Confidence: 55.49864
+
+Text: 
+-
+Confidence: 90.32404
+
+Text: 
+Aunt?!)
+Confidence: 44.71102
+
+Text: 
+RM
+Confidence: 73.12609
+
+Text: 
+21.
+Confidence: 76.48909
+
+Text: 
+l
+Confidence: 89.10336
+
+Text: 
+RH
+Confidence: 70.56311
+
+Text: 
+0.00
+Confidence: 78.02709
+
+Text: 
+RH
+Confidence: 66.22522
+
+Text: 
+0,41]
+Confidence: 49.336823
+
+Text: 
+W’éé
+Confidence: 60.303352
+
+Text: 
+RM
+Confidence: 75.16916
+
+Text: 
+01X)
+Confidence: 55.65338
+
+Text: 
+H
+Confidence: 75.3125
+
+Text: 
+un
+Confidence: 77.648834
+
+Text: 
+Change
+Confidence: 74.46578
+
+Text: 
+(CASH)
+Confidence: 72.04404
+
+Text: 
+M!
+Confidence: 61.452614
+
+Text: 
+31.20
+Confidence: 61.39536
+
+Text: 
+usn’
+Confidence: 38.764786
+
+Text: 
+BEE}?
+Confidence: 52.311893
+
+Text: 
+Tulal
+Confidence: 70.564125
+
+Text: 
+Sales
+Confidence: 74.536545
+
+Text: 
+Incl
+Confidence: 86.00708
+
+Text: 
+(EST
+Confidence: 60.44108
+
+Text: 
+RM
+Confidence: 86.144646
+
+Text: 
+"22.80
+Confidence: 59.38263
+
+Text: 
+Sub-Total
+Confidence: 64.019485
+
+Text: 
+'Iii’iz‘ao
+Confidence: 23.791595
+
+Text: 
+TFAHEA
+Confidence: 75.21479
+
+Text: 
+FR?
+Confidence: 67.46308
+
+Text: 
+-
+Confidence: 79.99725
+
+Text: 
+V
+Confidence: 91.20095
+
+Text: 
+man
+Confidence: 69.544525
+
+Text: 
+s
+Confidence: 81.83537
+
+Text: 
+wit.
+Confidence: 65.39926
+
+Text: 
+u
+Confidence: 81.05503
+
+Text: 
+u...
+Confidence: 70.761444
+
+Text: 
+..
+Confidence: 73.60535
+
+Text: 
+“mm...
+Confidence: 55.389404
+
+Text: 
+,.
+Confidence: 62.73651
+
+Text: 
+m7“
+Confidence: 32.727997
+
+Text: 
+_
+Confidence: 93.15613
+
+Text: 
+‘
+Confidence: 66.5802
+
+Text: 
+""
+Confidence: 74.2482
+
+Text: 
+""‘""
+Confidence: 62.691597
+
+Text: 
+"""""“”i
+Confidence: 52.309
+
+Text: 
+M
+Confidence: 60.87601
+
+Text: 
+m
+Confidence: 72.31687
+
+Text: 
+o
+Confidence: 71.75859
+
+Text: 
+lax
+Confidence: 78.82191
+
+Text: 
+lnvnice
+Confidence: 77.06895
+
+Text: 
+No:
+Confidence: 74.85199
+
+Text: 
+Wm-WIE
+Confidence: 64.616646
+
+Text: 
+Date:
+Confidence: 75.84932
+
+Text: 
+I7Jm11n2145m
+Confidence: 61.570885
+
+Text: 
+,
+Confidence: 65.33823
+
+Text: 
+7
+Confidence: 28.108353
+
+Text: 
+Wm
+Confidence: 71.830635
+
+Text: 
+lml
+Confidence: 79.13128
+
+Text: 
+x1
+Confidence: 77.612236
+
+Text: 
+?m
+Confidence: 51.56542
+
+Text: 
+was
+Confidence: 70.5929
+
+Text: 
+mm
+Confidence: 69.45663
+
+Text: 
+luv
+Confidence: 73.70462
+
+Text: 
+w.
+Confidence: 76.44092
+
+Text: 
+mm”...
+Confidence: 52.06685
+
+Text: 
+A__
+Confidence: 34.160446
+
+Text: 
+—~-~—---~-u~-—~—-
+Confidence: 47.759
+
+Text: 
+“77::
+Confidence: 58.857292
+
+Text: 
+m.
+Confidence: 71.89781
+
+Text: 
+um:
+Confidence: 73.04034
+
+Text: 
+IBT
+Confidence: 64.762436
+
+Text: 
+ID:
+Confidence: 80.49068
+
+Text: 
+comm?
+Confidence: 43.98384
+
+Text: 
+m.
+Confidence: 59.00077
+
+Text: 
+r-
+Confidence: 67.55723
+
+Text: 
+’
+Confidence: 64.128555
+
+Text: 
+asnmm
+Confidence: 67.76323
+
+Text: 
+mnaucxa
+Confidence: 73.85851
+
+Text: 
+com:
+Confidence: 71.85612
+
+Text: 
+1
+Confidence: 42.439007
+
+Text: 
+COMPANY
+Confidence: 59.926853
+
+Text: 
+SDN
+Confidence: 59.14438
+
+Text: 
+BHD
+Confidence: 77.02364
+
+Text: 
+1'
+Confidence: 55.547485
+
+Text: 
+‘
+Confidence: 45.386276
+
+Text: 
+(bull
+Confidence: 64.48746
+
+Text: 
+3
+Confidence: 79.28514
+
+Text: 
+j
+Confidence: 67.61618
+
+Text: 
+1m93‘3m:
+Confidence: 56.418056
+
+Text: 
+>
+Confidence: 21.043396
+
+Text: 
+m
+Confidence: 65.50346
+
+Text: 
+m:
+Confidence: 81.00116
+
+Text: 
+mummn
+Confidence: 67.39625
+
+Text: 
+[
+Confidence: 60.92002
+
+Text: 
+lax
+Confidence: 66.2865
+
+Text: 
+Invoice
+Confidence: 73.41797
+
+Text: 
+Nu:
+Confidence: 79.69992
+
+Text: 
+sammoosmm
+Confidence: 70.04455
+
+Text: 
+rmumz
+Confidence: 71.490585
+
+Text: 
+‘
+Confidence: 25.989792
+
+Text: 
+Date:
+Confidence: 68.53574
+
+Text: 
+\7Jm17tf1145m
+Confidence: 67.3649
+
+Text: 
+msm
+Confidence: 71.976425
+
+Text: 
+‘
+Confidence: 72.864784
+
+Text: 
+1mm
+Confidence: 66.532425
+
+Text: 
+FRPVV
+Confidence: 32.875824
+
+Text: 
+1
+Confidence: 83.57292
+
+Text: 
+21309
+Confidence: 57.366848
+
+Text: 
+i
+Confidence: 37.28645
+
+Text: 
+Sub-Imal
+Confidence: 76.89125
+
+Text: 
+m
+Confidence: 74.168144
+
+Text: 
+22.00
+Confidence: 67.86386
+
+Text: 
+:
+Confidence: 84.106445
+
+Text: 
+mm
+Confidence: 72.2679
+
+Text: 
+Sales
+Confidence: 67.75113
+
+Text: 
+Incl
+Confidence: 77.58367
+
+Text: 
+GSI
+Confidence: 77.520676
+
+Text: 
+77
+Confidence: 21.793365
+
+Text: 
+RM
+Confidence: 73.75888
+
+Text: 
+22.80
+Confidence: 78.38278
+
+Text: 
+‘
+Confidence: 67.687225
+
+Text: 
+msn""'”“"
+Confidence: 51.149563
+
+Text: 
+W553i
+Confidence: 52.917362
+
+Text: 
+‘
+Confidence: 27.028397
+
+Text: 
+Change
+Confidence: 74.93615
+
+Text: 
+(mm
+Confidence: 73.74549
+
+Text: 
+rot
+Confidence: 67.82799
+
+Text: 
+30,20
+Confidence: 67.96059
+
+Text: 
+‘
+Confidence: 59.32312
+
+Text: 
+USISuma
+Confidence: 54.30783
+
+Text: 
+mu:
+Confidence: 68.37325
+
+Text: 
+mu,
+Confidence: 73.602234
+
+Text: 
+m1
+Confidence: 64.174416
+
+Text: 
+m1
+Confidence: 69.98178
+
+Text: 
+‘
+Confidence: 77.43217
+
+Text: 
+S:[E"-]mllﬁ;¥
+Confidence: 49.848938
+
+Text: 
+Ruzfél
+Confidence: 47.5881
+
+Text: 
+ang
+Confidence: 49.02904
+
+Text: 
+[V
+Confidence: 46.077774
+
+Text: 
+ax:
+Confidence: 55.87745
+
+Text: 
+nunm
+Confidence: 72.69891
+
+Text: 
+mom
+Confidence: 70.7115
+
+Text: 
+Rum»
+Confidence: 53.564163
+
+Text: 
+Ru
+Confidence: 76.29239
+
+Text: 
+am
+Confidence: 73.35884
+
+Text: 
+1
+Confidence: 39.64505
+
+Text: 
+,
+Confidence: 66.79331
+
+Text: 
+»~»17
+Confidence: 50.00962
+
+Text: 
+Jm
+Confidence: 79.329575
+
+Text: 
+n
+Confidence: 82.33257
+
+Text: 
+02:46:13mmw
+Confidence: 39.642006
+
+Text: 
+vnur
+Confidence: 77.987434
+
+Text: 
+Next
+Confidence: 73.26484
+
+Text: 
+Drink
+Confidence: 86.51141
+
+Text: 
+Could
+Confidence: 73.040535
+
+Text: 
+Be
+Confidence: 82.34966
+
+Text: 
+[rm
+Confidence: 62.192772
+
+Text: 
+Hlth
+Confidence: 71.53877
+
+Text: 
+A
+Confidence: 83.02354
+
+Text: 
+Starbucks
+Confidence: 69.97589
+
+Text: 
+Cam
+Confidence: 78.018005
+
+Text: 
+‘
+Confidence: 45.386276
+
+Text: 
+Turn
+Confidence: 67.25197
+
+Text: 
+Your
+Confidence: 73.71719
+
+Text: 
+VISI|5
+Confidence: 75.82079
+
+Text: 
+Intu
+Confidence: 71.270065
+
+Text: 
+Rewards!
+Confidence: 59.715736
+
+Text: 
+‘
+Confidence: 58.606827
+
+Text: 
+Free
+Confidence: 72.59307
+
+Text: 
+um
+Confidence: 75.11422
+
+Text: 
+Code
+Confidence: 68.06781
+
+Text: 
+,7
+Confidence: 25.96157
+
+Text: 
+magma
+Confidence: 50.591362
+
+Text: 
+‘
+Confidence: 34.805634
+
+Text: 
+Pwrcﬂ
+Confidence: 68.15785
+
+Text: 
+y
+Confidence: 89.8142
+
+Text: 
+Vﬁluhf
+Confidence: 67.82143
+
+Text: 
+‘
+Confidence: 38.585663
+
+Text: 
+{O}
+Confidence: 66.583336
+
+Text: 
+5)}
+Confidence: 58.155575
+
+Text: 
+(G
+Confidence: 53.50647
+
+Text: 
+192%
+Confidence: 44.574856
+
+Text: 
+W—
+Confidence: 65.85094
+
